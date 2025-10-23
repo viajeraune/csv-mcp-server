@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ### Step 4: Test the Server with MCP Inspector
 
 ```bash
-npx @modelcontextprotocol/inspector python gsheets_server.py
+npx @modelcontextprotocol/inspector python server.py
 ```
 
 ## Configuration
